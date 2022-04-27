@@ -8,6 +8,6 @@ Config.Vago = {
     Vagos = true
 }
 
-Config.Famile = {
-    Familes = true
+Config.Familie = {
+    Families = true
 }
