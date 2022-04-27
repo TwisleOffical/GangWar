@@ -4,7 +4,7 @@
 # **Gang War By Twisle**
 
 
-This is a client side FiveM script that will make it so when you go in the Ballas , Vagos, and/or Familes areas they will attack you no questions asked
+This is a client side FiveM script that will make it so when you go in the Ballas , Vagos, and/or Families areas they will attack you no questions asked
 
 This script is intended to make it so people dont go where they shouldnt go. You can also add some sort of mission along with this script to your own server!
 
