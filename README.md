@@ -22,6 +22,11 @@ false = off
 
 true = on
 
+## **Forums Post**
+https://forum.cfx.re/t/free-standalone-gang-war/4845242
+
 ## **My Discord!**
 
 https://discord.gg/TCGEP3hHS2
+
+
