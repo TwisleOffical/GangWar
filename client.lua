@@ -45,17 +45,17 @@ end
 end)
 
 Citizen.CreateThread(function()
-    local FamilesPos = vector3(-117.46, -1526.66, 33.000)
+    local FamiliesPos = vector3(-117.46, -1526.66, 33.000)
         if true then
-            if Config.Famile.Familes then
+            if Config.Familie.Families then
         Citizen.Wait(1)
         local playerped = PlayerPedId()
         local playerCoords = GetEntityCoords(playerped)
-        local distanceFamiles = #(playerCoords - FamilesPos)
-        local IsInAreaFamiles = false 
+        local distanceFamilies = #(playerCoords - FamiliesPos)
+        local IsInAreaFamilies = false 
 
-            if distanceFamiles < 20.0 then
-                IsInAreaFamiles = true
+            if distanceFamilies < 20.0 then
+                IsInAreaFamilies = true
             else
                 SetRelationshipBetweenGroups(5, GetHashKey('AMBIENT_GANG_FAMILY'), GetHashKey('PLAYER'))
                 SetRelationshipBetweenGroups(1, GetHashKey('AMBIENT_GANG_FAMILY'), GetHashKey('AMBIENT_GANG_FAMILY'))
