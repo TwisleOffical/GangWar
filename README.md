@@ -22,6 +22,6 @@ false = off
 
 true = on
 
-My Discord! 
+## **My Discord!**
 
 https://discord.gg/TCGEP3hHS2
