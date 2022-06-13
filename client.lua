@@ -12,8 +12,7 @@ Citizen.CreateThread(function()
                 IsInAreaBalla = true
             else
                 SetRelationshipBetweenGroups(5, GetHashKey('AMBIENT_GANG_BALLAS'), GetHashKey('PLAYER'))
-                SetRelationshipBetweenGroups(1, GetHashKey('AMBIENT_GANG_BALLAS'), GetHashKey('AMBIENT_GANG_BALLAS'))
-                          
+                SetRelationshipBetweenGroups(1, GetHashKey('AMBIENT_GANG_BALLAS'), GetHashKey('AMBIENT_GANG_BALLAS'))              
      end
     end
 end
